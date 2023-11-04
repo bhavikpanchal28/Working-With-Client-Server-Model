@@ -1,3 +1,9 @@
+# Working with the Client-Server Model
+
+## This is Lab work that involved me familiarizing myself with the Client-Server Model \
+### Follow the instructions below to use this project
+
+
 First compile both files Server.java and Client.java.
 Then run Server and run Client with the RMIRegistry running.
 
